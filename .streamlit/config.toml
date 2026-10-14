@@ -1,0 +1,10 @@
+# Local demo configuration for the AI Revenue Recovery Agent dashboard.
+# The dashboard is LOCAL ONLY: bound to loopback, telemetry off.
+
+[server]
+# Listen on loopback only - never exposed to the network.
+address = "localhost"
+
+[browser]
+# No telemetry leaves this machine.
+gatherUsageStats = false

@@ -1,0 +1,3 @@
+customer_id,service,month,usage
+C101,Netflix,June,high
+C101,Netflix,June,low

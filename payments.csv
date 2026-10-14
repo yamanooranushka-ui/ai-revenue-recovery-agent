@@ -1,0 +1,6 @@
+﻿payment_id,customer_id,status,failure_reason,amount
+P001,C001,failed,insufficient_funds,649
+P002,C002,failed,bank_error,499
+P003,C003,successful,,999
+P004,C004,failed,insufficient_funds,299
+P005,C005,failed,payment_processor_error,799

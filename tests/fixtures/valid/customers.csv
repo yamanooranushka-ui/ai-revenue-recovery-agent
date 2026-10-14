@@ -1,0 +1,5 @@
+customer_id,name,expected_payday
+C101,Alice,5
+C102,Bob,15
+C103,Carol,30
+C104,Dan,25

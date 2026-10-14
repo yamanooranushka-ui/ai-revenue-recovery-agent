@@ -1,0 +1,3 @@
+payment_id,customer_id,status,failure_reason,amount
+PAY999,C101,failed,insufficient_funds,50
+PAY999,C101,failed,bank_error,60

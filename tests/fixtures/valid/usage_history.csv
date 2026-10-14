@@ -1,0 +1,9 @@
+customer_id,service,month,usage
+C101,Netflix,June,high
+C101,Netflix,July,high
+C101,Netflix,August,high
+C101,Netflix,September,high
+C103,Notion,June,low
+C103,Notion,July,low
+C103,Notion,August,low
+C103,Notion,September,low

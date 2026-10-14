@@ -1,0 +1,5 @@
+subscription_id,customer_id,service,amount,status
+SUB101,C101,Netflix,649,lapsed
+SUB102,C101,Spotify,119,active
+SUB103,C102,Adobe,1675,lapsed
+SUB104,C103,Notion,800,active

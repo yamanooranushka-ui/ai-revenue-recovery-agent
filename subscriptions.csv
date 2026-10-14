@@ -1,0 +1,6 @@
+﻿subscription_id,customer_id,service,amount,status
+S001,C001,Netflix,649,lapsed
+S002,C002,Spotify,119,active
+S003,C003,Adobe,1675,lapsed
+S004,C004,Notion,800,lapsed
+S005,C005,Canva,500,active

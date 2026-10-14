@@ -1,0 +1,13 @@
+﻿customer_id,service,month,usage
+C001,Netflix,June,high
+C001,Netflix,July,high
+C001,Netflix,August,high
+C001,Netflix,September,high
+C003,Adobe,June ,high
+C003,Adobe,July,high
+C003,Adobe,August,high
+C003,Adobe,September,high
+C004,Notion,June,low
+C004,Notion,July,low
+C004,Notion,August,low
+C004,Notion,September,low

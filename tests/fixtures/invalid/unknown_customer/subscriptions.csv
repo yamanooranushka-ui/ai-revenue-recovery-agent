@@ -1,0 +1,2 @@
+subscription_id,customer_id,service,amount,status
+SUB101,C101,Netflix,649,lapsed

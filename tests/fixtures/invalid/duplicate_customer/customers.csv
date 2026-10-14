@@ -1,0 +1,3 @@
+customer_id,name,expected_payday
+C999,Tester,5
+C999,Dupe,10

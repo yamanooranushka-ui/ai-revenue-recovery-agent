@@ -1,0 +1,2 @@
+payment_id,customer_id,status,failure_reason,amount
+PAY999,C101,failed,,50

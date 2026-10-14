@@ -1,0 +1,38 @@
+# --- Secrets / credentials (never publish) ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+env.bak/
+
+# --- Python caches ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# --- Test / tool caches ---
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# --- Local runtime state (generated; keep on disk, never publish) ---
+state/
+audit/
+*.log
+
+# --- Temporary / OS / editor files ---
+*.tmp
+~$*
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
